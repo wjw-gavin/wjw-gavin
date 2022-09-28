@@ -1,8 +1,8 @@
 ### Hi there 👋,I'm Gavin.
 
-##### Learning English.
+Learning English.
 
-##### Strive to do something meaningful.
+Strive to do something meaningful.
 
 Reach me: [Email](mailto:gavinwjw@163.com)
 
