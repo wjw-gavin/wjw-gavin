@@ -6,4 +6,4 @@ Strive to do something meaningful.
 
 Reach me: [Email](mailto:gavinwjw@163.com)
 
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=wjw-gavin&show_icons=true&count_private=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=wjw-gavin&show_icons=true&count_private=true&theme=tokyonight">
