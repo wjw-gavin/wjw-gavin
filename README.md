@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Gavin.
 
-Learning English.
+Learning English and Node.js.
 
 Strive to do something meaningful.
 
