@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Gavin.
 
-Learning English and Nest.js.
+Keep Learning.
 
 Strive to do something meaningful.
 
